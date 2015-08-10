@@ -4,11 +4,13 @@
 
 mostly for Maciek's viewing pleasure, to kick things off with [live art studio](https://www.facebook.com/liveartstudio) and experiment with some graphics which might or might not lead to some future developments.
 
+[![Live Art Studio](img/_img_live_art_studio_/1781994_817984651549242_1055697575_n.jpg)](https://www.facebook.com/liveartstudio)
+
 the composition is just a clone of http://rec-convo-the-edge.surge.sh/#pan1
 
 [![deckard](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/deckard.svg)](http://rec-convo-the-edge.surge.sh/#pan1)
 
-code for this piece of work as well as links to credits in [README-rec-convo-the-edge.md](https://github.com/projekt-kreatywa/live-art-360-convo/blob/master/README-rec-convo-the-edge.md) 
+code for this piece of work as well as links to credits in [README-rec-convo-the-edge.md](https://github.com/projekt-kreatywa/live-art-360-convo/blob/master/README-rec-convo-the-edge.md)
 
 with new graphics traced on the fly from sketches created on [lazy sunday afternoon](https://www.facebook.com/photo.php?fbid=954242664626491&l=b9c13ac421) at Cable Studios in London.
 
